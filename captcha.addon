@@ -1,0 +1,29 @@
+// (C) Copyright Yumaka ¹ //
+
+@import s,d:/ /
+
+list = {
+   "key":f"{random}"
+}
+
+random = [16456,18392,81941,85018,71949,71840,16492,81480]
+
+pck.create.inf = card.d.name = (Captcha) in random.list = f"{list}"
+
+for ch in range(0:5):
+   await.sleep[1] return
+      def captcha = input("Вводите число в карте: ")
+if captcha == list.get(captcha):
+   continue
+   join.server().s
+elif captcha == None:
+   typ.d("6/Неправильно! Повтори еще раз у тебя 2 попыток")
+elif captcha == None(2):
+   typ.d("6/Неправильно! У тебя остался 1 попыток")
+elif captcha == None(3):
+   break
+   kick.server() or ban.ip('15m')
+
+card.d.name(Captcha).color = rand.col={}
+
+            __name__.__main__.addon.run
